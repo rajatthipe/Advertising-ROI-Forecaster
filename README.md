@@ -1,5 +1,9 @@
 # Advertising-ROI-Forecaster
+# Objective :
+Identify the Which Platform have more impact on Sales
+To build the Model which will help to Predict the future sales based on Money invest in Different Platform for advertisement
 
+#Steps:-
 1.Data Collection:
 Gather historical data on sales.
 Collect data on advertising spending across different platforms (e.g., TV, radio, digital ads, social media).
